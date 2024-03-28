@@ -40,7 +40,7 @@ escreva a sua pergunta =>''')
           era uma realidade inventada por um computado
           ela destruir o computado passa viver a sua vida e viver o seu sonho
 ''')
-     elif(pergunta == "SAIR"):
+     elif(pergunta == "sair"):
          print("obrigado volte sempre")
          break
      else:
