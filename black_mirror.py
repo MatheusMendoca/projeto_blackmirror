@@ -11,7 +11,7 @@ while(pergunta != 0 ):
     5 QUAL É A REAÇÃO INICIAL DE JOAN AO DESCOBRIR A SÉRIE E O QUE ELA FAZ EM RESPOSTA?
     6 QUAIS SÃO OS TEMAS PRINCIPAIS EXPLORADOS NESTE EPISÓDIO DE BLACK MIRROR
     7 O EPISÓDIO TERMINA DE MANEIRA TÍPICA PARA A SÉRIE BLACK MIRROR? EXPLIQUE.
-                 SAIR
+                 sair
 ==============================================================================
 escreva a sua pergunta =>''')
      if(pergunta == "QUAL É O NOME COMPLETO DA PROTAGONISTA DO EPISÓDIO"):
